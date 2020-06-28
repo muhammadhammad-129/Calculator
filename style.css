@@ -1,0 +1,55 @@
+body{
+    background-image: url('./image/bg.jpg');
+}
+.main{
+    border: 2px solid gray;
+    width: 500px;
+    height: 355px;
+    margin: 0 auto;
+}
+input{
+    width:  98%;
+    height: 65px;
+    background: #4141418c;
+    color: white;
+    font-size: 30px;
+}
+.C{
+    width: 100%;
+    background: #e33e3ed9;
+    height: 45px;
+    color: white;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 55px;
+    color: white;
+}
+.bt{
+    width: 122px;
+    height: 60px;
+    font-size: 30px;
+    background: #ffffffc9;
+
+}
+.bt1{
+    width: 248px;
+    height: 60px;
+    font-size: 30px;
+    background: #ffffffc9;
+
+}
+.bt2{
+    width: 248px;
+    height: 60px;
+    font-size: 30px;
+    background: #ffa141d9;
+    color:white;
+
+}
+.halfbtn{
+    background: #f9f9f9;
+    width: 98px;
+}
